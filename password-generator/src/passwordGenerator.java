@@ -1,6 +1,14 @@
-import java.awt.*;
+/**
+* The password-generator program implements an application that
+* runs a graphical user interface where the user can have a random 
+* password generated for them to their specifications.
+*
+* @author  Duncan Clarke
+* @version 1.0
+* @since   2018-07-16 
+*/
+
 import javax.swing.*;
-import java.awt.Container;
 import java.awt.GridLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
