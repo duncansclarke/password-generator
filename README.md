@@ -1,2 +1,2 @@
 # password-generator
-A simple password generator with user chosen options
+A simple password generator with user specifications
